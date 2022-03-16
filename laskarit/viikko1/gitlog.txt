@@ -1,0 +1,113 @@
+commit ee7053570a8e457643353267bd7256273daffbc5
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 12:35:29 2022 +0200
+
+    viimeinen muutos t11
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b67c9ab89e70f9e7e3302b8d7828669740fb4a98
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 12:33:04 2022 +0200
+
+    tiedostojen lisäys
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d4073ca8bf00e1c3377582ffe7f8869615daecc9
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 12:28:55 2022 +0200
+
+    t9 muutokset
+
+ eka.txt    | 3 +--
+ kolmas.txt | 3 ++-
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit 26637906b116bb6118ba94a2824118ce8b6f95ae
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:56:40 2022 +0200
+
+    rename tiedosto.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 140f61e94c2626677e639040cf5c0a9dd5533698
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:55:04 2022 +0200
+
+    toinen.txt poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1dd4e28d4e279d0d2b8efa53708a59b7cf93c294
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:40:07 2022 +0200
+
+    muutokset lisättyyn tekstiin
+
+ tiedosto.txt | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+
+commit de3e337414003c2c872ccbe7dd33d7f1706e5762
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:34:32 2022 +0200
+
+    tekstin lisääminen tiedosto.txt
+
+ tiedosto.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 0ee5f50ecfed653d0447298df4534306e482bbe1
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:29:34 2022 +0200
+
+    stuff ja tiedosto2 lisäys
+
+ stuff/tiedosto2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 59a58aa37211921903484e7a032b63432a94f6dc
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:27:36 2022 +0200
+
+    muutokset tiedostoihin toinen ja kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3a3489c37043393cbe5a64cba58a418ef7ce6df1
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:26:04 2022 +0200
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e5c607d40a6041623cca051ed1a1f05a875402f0
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:23:51 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 6a5db88cb5f7ac6f60d49e174282c5e0d12133dd
+Author: lxhelmer <helmer.lauronen@gmail.com>
+Date:   Wed Mar 16 11:22:08 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
