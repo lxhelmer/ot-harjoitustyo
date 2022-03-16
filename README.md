@@ -4,5 +4,5 @@
 Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja sitä miten se yhdistetään 
 **githubbiin**. 
 
-[/laskarit/gitlog.txt]
-[/laskarit/komentorivi.txt]
+[gitlog.txt](/laskarit/gitlog.txt)
+[komentorivi.txt](/laskarit/komentorivi.txt)
