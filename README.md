@@ -5,4 +5,5 @@ Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja
 **githubbiin**. 
 
 [gitlog.txt](/laskarit/gitlog.txt)
+
 [komentorivi.txt](/laskarit/komentorivi.txt)
