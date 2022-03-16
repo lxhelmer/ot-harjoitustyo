@@ -7,3 +7,7 @@ Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja
 [gitlog.txt](laskarit/viikko1/gitlog.txt)
 
 [komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+
+
+Ensiviikolla taidetaankin jo aloitella projektityön tekoa ihan kunnolla.
+
