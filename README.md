@@ -11,3 +11,4 @@ Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja
 
 Ensiviikolla taidetaankin jo aloitella projektityön tekoa ihan kunnolla.
 
+Tämän pitäisi aiheuttaa epäsynkrooni
