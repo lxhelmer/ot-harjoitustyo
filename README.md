@@ -10,6 +10,8 @@ Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja
 
 [vaatimusmaarittely.md](/vaatimusmaarittely.md)
 
+[tyoaikakirjanpito.md](/tyoaikakirjanpito.md)
+
 
 Ensiviikolla taidetaankin jo aloitella projektityön tekoa ihan kunnolla.
 
