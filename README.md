@@ -8,6 +8,8 @@ Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja
 
 [komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
 
+[vaatimusmaarittely.md](/vaatimusmaarittely.md)
+
 
 Ensiviikolla taidetaankin jo aloitella projektityön tekoa ihan kunnolla.
 
