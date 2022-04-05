@@ -1,18 +1,9 @@
-# README tiedosto
+# Kirjastotyökalu
 
-
-Ohjelmistotekniikan ensimmäisellä viikolla harjoitelimme _gitin_ käyttöä ja sitä miten se yhdistetään 
-**githubbiin**. 
-
-[gitlog.txt](laskarit/viikko1/gitlog.txt)
-
-[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+Vähän kurssin tahdista jäljessä. Ohjelmakoodia ei ole vielä ollenkaan. Kurssin alustustyöt testaamisen yms osalta tehty.
 
 [vaatimusmaarittely.md](/vaatimusmaarittely.md)
 
 [tyoaikakirjanpito.md](/tyoaikakirjanpito.md)
 
 
-Ensiviikolla taidetaankin jo aloitella projektityön tekoa ihan kunnolla.
-
-Tämän pitäisi aiheuttaa epäsynkrooni
