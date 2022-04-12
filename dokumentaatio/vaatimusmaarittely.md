@@ -26,3 +26,7 @@ Nämä vaihtoehdot vastaavat omia näkymiään joissa käyttäjä voi suorittaa 
 Kirjastojen luomiseen voi kehittää laajempia ja monimutkaisempia rakenteita. Esimerkiksi esimerkiksi tauluun voidaan tallentaa muiden solujen mukaan
 määrittyviä arvoja tms automaattista laskentaa hyödyntäviä arvoja. Ohjelmaan voidaan myös lisätä taulujen välillä tapahtuvaa vertailua tai niiden yhdistelyä 
 pysyvästi tai väliaikaisesti tiedon esitysnäkymässä. Lisäksi voidaan kehittää käyttäjä osiossa kaavailtu lupahierarkia.
+
+
+# Toteutettu
+- Toteutettu käyttöliittymän perusnäkymä sekä taulukon katsomiseen johtava näkymä
