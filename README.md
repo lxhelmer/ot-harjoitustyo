@@ -6,7 +6,9 @@
 
 [tyoaikakirjanpito.md](/dokumentaatio/tyoaikakirjanpito.md)
 
-[Changelog.md](/dokumentaatio/Changelog.md)
+[changelog.md](/dokumentaatio/changelog.md)
+
+[arkkitehtuuri.md](/dokumentaatio/arkkitehtuuri.md)
 
 ## Asennus
 
