@@ -1,6 +1,6 @@
 # Kirjastotyökalu
 
-Vähän kurssin tahdista jäljessä. Ohjelmakoodia ei ole vielä ollenkaan. Kurssin alustustyöt testaamisen yms osalta tehty.
+## Dokumentaatio
 
 [vaatimusmaarittely.md](/dokumentaatio/vaatimusmaarittely.md)
 
@@ -8,4 +8,33 @@ Vähän kurssin tahdista jäljessä. Ohjelmakoodia ei ole vielä ollenkaan. Kurs
 
 [Changelog.md](/dokumentaatio/Changelog.md)
 
+## Asennus
 
+Asenna riippuvuudet käyttäen poetryä
+
+```bash
+poetry install
+```
+
+Ohjelman voi käynnistää komennolla 
+```bash
+poetry run invoke start
+``` 
+
+Testit voi suorittaa komennolla
+
+```bash
+poetry run invoke test
+``` 
+
+Kattavuusraportin voi generoida komennolla 
+
+```bash
+poetry run invoke coverage-report
+``` 
+
+Ohjelman voi ajaa pylint testin läpi komennolla
+
+```bash
+poetry run invoke lint
+``` 
