@@ -1,4 +1,4 @@
-from tkinter import ttk, constants
+from tkinter import ttk
 
 class StartMenu:
     def __init__(self, root,handle_tableview,handle_createview,handle_exit):
