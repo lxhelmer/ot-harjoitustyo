@@ -6,4 +6,6 @@ Vähän kurssin tahdista jäljessä. Ohjelmakoodia ei ole vielä ollenkaan. Kurs
 
 [tyoaikakirjanpito.md](/tyoaikakirjanpito.md)
 
+[Changelog.md](/Changelog.md)
+
 
