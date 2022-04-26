@@ -10,6 +10,10 @@
 
 [arkkitehtuuri.md](/dokumentaatio/arkkitehtuuri.md)
 
+## Releases
+
+[release 1 (viikko5)](/releases/tag/viikko5)
+
 ## Asennus
 
 Asenna riippuvuudet käyttäen poetryä
