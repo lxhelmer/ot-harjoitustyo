@@ -28,7 +28,7 @@ määrittyviä arvoja tms automaattista laskentaa hyödyntäviä arvoja. Ohjelma
 pysyvästi tai väliaikaisesti tiedon esitysnäkymässä. Lisäksi voidaan kehittää käyttäjä osiossa kaavailtu lupahierarkia.
 
 
-# Toteutettu
+# Toteutettu ("Tehty" osio)
 - Toteutettu käyttöliittymän perusnäkymä sekä taulukon katsomiseen johtava näkymä
 - Toteutettu testejä suhteellisen hyvällä kattavuudella
 - Toteutettu loput käyttöliittymän näkymät(taulukon luonti, sekä taulukon katsomis näkymä)
