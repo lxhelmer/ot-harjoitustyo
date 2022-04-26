@@ -31,3 +31,4 @@ pysyvästi tai väliaikaisesti tiedon esitysnäkymässä. Lisäksi voidaan kehit
 # Toteutettu
 - Toteutettu käyttöliittymän perusnäkymä sekä taulukon katsomiseen johtava näkymä
 - Toteutettu testejä suhteellisen hyvällä kattavuudella
+- Toteutettu loput käyttöliittymän näkymät(taulukon luonti, sekä taulukon katsomis näkymä)
