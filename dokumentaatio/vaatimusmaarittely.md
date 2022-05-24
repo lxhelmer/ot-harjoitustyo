@@ -1,4 +1,4 @@
-# Vaatimusmäärittely Päivitetty vastaamaan lopullista ohjelmaa
+# Vaatimusmäärittely /päivitetty vastaamaan lopullista ohjelmaa
 
 ## Sovelluksen tarkoitus
 
