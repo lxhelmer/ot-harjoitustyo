@@ -21,12 +21,13 @@ Asenna riippuvuudet käyttäen poetryä
 ```bash
 poetry install
 ```
+Ennen ohjelman käynnistystä tulee alustaa sql tietokanta ajalamma komento tiedosto "src/initializer.py" 
+jos kyseisen ohjelman suoritus kaatuu "no such column: sqlite_schema tai sqlite_master" tulee vaihtaa sqlite muuttujan arvo src/services/tables.py tiedostosta. Tämä on joku eri versioiden välinen ongelma joka tuli esille kokeillessa koulun koneella. Koulun koneilla toimi aijempi sqlite_master.
 
 Ohjelman voi käynnistää komennolla 
 ```bash
 poetry run invoke start
 ``` 
-
 Testit voi suorittaa komennolla
 
 ```bash
