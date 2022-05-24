@@ -12,7 +12,7 @@
 
 ## Releaset
 
-[release 1 (viikko5)](/releases/tag/viikko5)
+[release 1 (viikko5)](https://github.com/lxhelmer/ot-harjoitustyo/releases/tag/viikko5)
 
 [release loppupalautus](https://github.com/lxhelmer/ot-harjoitustyo/releases/tag/loppupalautus)
 ## Asennus
