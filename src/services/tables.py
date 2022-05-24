@@ -8,7 +8,7 @@ def setup():
 def get_tables():
     cursor = setup()
     
-    cursor.execute('''select name from sqlite_schema where type='table' order by name''')
+    cursor.execute('''select name from sqlite_master where type='table' order by name''')
     
     tables = cursor.fetchall()
     ret = []
