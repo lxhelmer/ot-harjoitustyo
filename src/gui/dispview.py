@@ -1,13 +1,14 @@
-from tkinter import ttk, constants
+from tkinter import ttk, constants     
+
 
 class DispView:
-    def __init__(self,root,handle_tableview):
+    def __init__(self,root,handle_tableview,table_name):
         self.root = root
         self.frame = None
         self.table_view = handle_tableview
 
 
-        self.table_name = "name placeholder" #update to real value
+        self.table_name = table_name #update to real value
         self.tablevalueset = [(1,"first", "forsta"),
                             (2,"second", "andra"),
                             (3,"third", "tredje")]
