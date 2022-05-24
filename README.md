@@ -14,7 +14,7 @@
 
 [release 1 (viikko5)](/releases/tag/viikko5)
 
-[release loppupalautus](/releases/tag/loppupalautus)
+[release loppupalautus](https://github.com/lxhelmer/ot-harjoitustyo/releases/tag/loppupalautus)
 ## Asennus
 
 Asenna riippuvuudet käyttäen poetryä
