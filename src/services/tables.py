@@ -1,6 +1,5 @@
 from services.connection import get_connection
 
-
 def setup():
     connection = get_connection()
     cursor = connection.cursor()
@@ -36,11 +35,15 @@ def create_table(name, columns):
     '''
 
     for columnindx in range(len(columns)):
-        command = command + columns[columnindx]
+        if columnindx == 0:
+            command += columns[columnindx] + ''' unique'''
+        else:
+            command = command + columns[columnindx]
         if columnindx < len(columns)-1:
             command += ''',\n'''
 
     command += '''\n); '''
     
     cursor.execute(command)
-
+def make_columns(colstring):
+    return colstring.split(", ")

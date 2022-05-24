@@ -15,12 +15,19 @@ class TableView:
 
     def pack(self):
         self.frame.pack()
-    
+    def warning(self):
+        warning = ttk.Label(self.frame,text="Select valid table name",foreground='#f00')
+        warning.grid(row=2, column=1)
     def open(self):
-        self.handle_open(self.tables.get())
+        if self.tables.get() in get_tables():
+            self.handle_open(self.tables.get())
+        else:
+            self.warning()
     def del_table(self):
-        delete_table(self.tables.get())
-
+        if self.tables.get() in get_tables():
+            delete_table(self.tables.get())
+        else:
+            self.warning()
     def initialize(self):
         self.frame = ttk.Frame(master=self.root)
         label = ttk.Label(self.frame,text="Choose table to view")
